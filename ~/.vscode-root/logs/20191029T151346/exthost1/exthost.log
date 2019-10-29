@@ -1,0 +1,156 @@
+[2019-10-29 15:13:52.451] [exthost] [info] extension host started
+[2019-10-29 15:13:52.659] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2019-10-29 15:13:52.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2019-10-29 15:13:52.670] [exthost] [info] ExtensionService#_doActivateExtension polymer.polymer-ide {"startup":false,"extensionId":{"value":"polymer.polymer-ide","_lower":"polymer.polymer-ide"},"activationEvent":"onLanguage:plaintext"}
+[2019-10-29 15:13:52.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/polymer.polymer-ide-0.6.0/out/src/extension
+[2019-10-29 15:13:52.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-29 15:13:52.781] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-29 15:13:52.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-29 15:13:52.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-29 15:13:52.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-29 15:13:52.934] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-29 15:13:53.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-29 15:13:53.322] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-29 15:13:53.337] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"extensionId":{"value":"alefragnani.Bookmarks","_lower":"alefragnani.bookmarks"},"activationEvent":"*"}
+[2019-10-29 15:13:53.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/alefragnani.bookmarks-10.5.0/dist/extension
+[2019-10-29 15:13:53.359] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"extensionId":{"value":"bierner.color-info","_lower":"bierner.color-info"},"activationEvent":"*"}
+[2019-10-29 15:13:53.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-10-29 15:13:53.482] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2019-10-29 15:13:53.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/chenxsan.vscode-standardjs-1.2.3/client/out/extension
+[2019-10-29 15:13:53.555] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2019-10-29 15:13:53.555] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-10-29 15:13:53.573] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2019-10-29 15:13:53.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-10-29 15:13:53.606] [exthost] [info] ExtensionService#_doActivateExtension cssho.vscode-svgviewer {"startup":true,"extensionId":{"value":"cssho.vscode-svgviewer","_lower":"cssho.vscode-svgviewer"},"activationEvent":"*"}
+[2019-10-29 15:13:53.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/cssho.vscode-svgviewer-2.0.0/out/src/extension
+[2019-10-29 15:13:53.727] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2019-10-29 15:13:53.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/editorconfig.editorconfig-0.14.2/out/editorConfigMain.js
+[2019-10-29 15:13:53.808] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2019-10-29 15:13:53.809] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-10-29 15:13:53.841] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-10-29 15:13:53.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/esbenp.prettier-vscode-2.3.0/out/extension
+[2019-10-29 15:13:54.456] [exthost] [info] ExtensionService#_doActivateExtension fabiospampinato.vscode-todo-plus {"startup":true,"extensionId":{"value":"fabiospampinato.vscode-todo-plus","_lower":"fabiospampinato.vscode-todo-plus"},"activationEvent":"*"}
+[2019-10-29 15:13:54.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/fabiospampinato.vscode-todo-plus-4.14.1/out/extension.js
+[2019-10-29 15:13:54.665] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion {"startup":true,"extensionId":{"value":"gencer.html-slim-scss-css-class-completion","_lower":"gencer.html-slim-scss-css-class-completion"},"activationEvent":"*"}
+[2019-10-29 15:13:54.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.5.21/dist/extension
+[2019-10-29 15:13:55.018] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2019-10-29 15:13:55.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2019-10-29 15:13:55.040] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare-audio","_lower":"ms-vsliveshare.vsliveshare-audio"},"activationEvent":"*"}
+[2019-10-29 15:13:55.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1056/out/prod/extension-prod
+[2019-10-29 15:13:56.458] [exthost] [info] ExtensionService#_doActivateExtension metaseed.metago {"startup":true,"extensionId":{"value":"metaseed.metago","_lower":"metaseed.metago"},"activationEvent":"*"}
+[2019-10-29 15:13:56.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/metaseed.metago-2.11.0/out/src/extension
+[2019-10-29 15:13:56.494] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2019-10-29 15:13:56.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/mhutchie.git-graph-1.17.0/out/extension.js
+[2019-10-29 15:13:56.591] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"extensionId":{"value":"nrwl.angular-console","_lower":"nrwl.angular-console"},"activationEvent":"*"}
+[2019-10-29 15:13:56.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/nrwl.angular-console-8.1.2/main.js
+[2019-10-29 15:13:59.684] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2019-10-29 15:13:59.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2019-10-29 15:13:59.688] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2019-10-29 15:13:59.688] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/pkief.material-icon-theme-3.9.1/dist/extension
+[2019-10-29 15:13:59.743] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2019-10-29 15:13:59.744] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-10-29 15:13:59.808] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-10-29 15:13:59.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-10-29 15:14:00.401] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2019-10-29 15:14:00.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2019-10-29 15:14:00.743] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"extensionId":{"value":"shardulm94.trailing-spaces","_lower":"shardulm94.trailing-spaces"},"activationEvent":"*"}
+[2019-10-29 15:14:00.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-10-29 15:14:00.791] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip {"startup":true,"extensionId":{"value":"slevesque.vscode-multiclip","_lower":"slevesque.vscode-multiclip"},"activationEvent":"*"}
+[2019-10-29 15:14:00.791] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/slevesque.vscode-multiclip-0.1.5/out/src/extension
+[2019-10-29 15:14:00.793] [exthost] [info] ExtensionService#_doActivateExtension TzachOvadia.todo-list {"startup":true,"extensionId":{"value":"TzachOvadia.todo-list","_lower":"tzachovadia.todo-list"},"activationEvent":"*"}
+[2019-10-29 15:14:00.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/tzachovadia.todo-list-1.5.1/out/src/extension
+[2019-10-29 15:14:00.916] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.errorlens {"startup":true,"extensionId":{"value":"usernamehw.errorlens","_lower":"usernamehw.errorlens"},"activationEvent":"*"}
+[2019-10-29 15:14:00.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/usernamehw.errorlens-2.7.2/dist/extension
+[2019-10-29 15:14:00.923] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"extensionId":{"value":"vincaslt.highlight-matching-tag","_lower":"vincaslt.highlight-matching-tag"},"activationEvent":"*"}
+[2019-10-29 15:14:00.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/vincaslt.highlight-matching-tag-0.9.5/out/src/extension
+[2019-10-29 15:14:00.956] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-10-29 15:14:00.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/vscode-icons-team.vscode-icons-9.5.0/dist/src/vscode-icons.bundle.js
+[2019-10-29 15:14:01.167] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2019-10-29 15:14:01.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2019-10-29 15:14:01.321] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2019-10-29 15:14:01.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wallabyjs.quokka-vscode-1.0.259/index
+[2019-10-29 15:14:01.323] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2019-10-29 15:14:01.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-10-29 15:14:01.326] [exthost] [info] ExtensionService#_doActivateExtension Wscats.eno {"startup":true,"extensionId":{"value":"Wscats.eno","_lower":"wscats.eno"},"activationEvent":"*"}
+[2019-10-29 15:14:01.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wscats.eno-2.0.9/extension
+[2019-10-29 15:14:02.908] [exthost] [info] ExtensionService#_doActivateExtension yatki.vscode-surround {"startup":true,"extensionId":{"value":"yatki.vscode-surround","_lower":"yatki.vscode-surround"},"activationEvent":"*"}
+[2019-10-29 15:14:02.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/yatki.vscode-surround-1.0.2/out/surround
+[2019-10-29 15:14:02.912] [exthost] [info] eager extensions activated
+[2019-10-29 15:14:59.211] [exthost] [info] extension host started
+[2019-10-29 15:14:59.266] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2019-10-29 15:14:59.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2019-10-29 15:14:59.272] [exthost] [info] ExtensionService#_doActivateExtension polymer.polymer-ide {"startup":false,"extensionId":{"value":"polymer.polymer-ide","_lower":"polymer.polymer-ide"},"activationEvent":"onLanguage:plaintext"}
+[2019-10-29 15:14:59.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/polymer.polymer-ide-0.6.0/out/src/extension
+[2019-10-29 15:14:59.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-29 15:14:59.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-29 15:14:59.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-29 15:14:59.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-29 15:14:59.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-29 15:14:59.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-29 15:14:59.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-29 15:14:59.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-29 15:14:59.456] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"extensionId":{"value":"alefragnani.Bookmarks","_lower":"alefragnani.bookmarks"},"activationEvent":"*"}
+[2019-10-29 15:14:59.456] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/alefragnani.bookmarks-10.5.0/dist/extension
+[2019-10-29 15:14:59.466] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"extensionId":{"value":"bierner.color-info","_lower":"bierner.color-info"},"activationEvent":"*"}
+[2019-10-29 15:14:59.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-10-29 15:14:59.516] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2019-10-29 15:14:59.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/chenxsan.vscode-standardjs-1.2.3/client/out/extension
+[2019-10-29 15:14:59.554] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2019-10-29 15:14:59.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-10-29 15:14:59.564] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2019-10-29 15:14:59.564] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-10-29 15:14:59.584] [exthost] [info] ExtensionService#_doActivateExtension cssho.vscode-svgviewer {"startup":true,"extensionId":{"value":"cssho.vscode-svgviewer","_lower":"cssho.vscode-svgviewer"},"activationEvent":"*"}
+[2019-10-29 15:14:59.584] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/cssho.vscode-svgviewer-2.0.0/out/src/extension
+[2019-10-29 15:14:59.627] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2019-10-29 15:14:59.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/editorconfig.editorconfig-0.14.2/out/editorConfigMain.js
+[2019-10-29 15:14:59.662] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2019-10-29 15:14:59.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-10-29 15:14:59.675] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-10-29 15:14:59.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/esbenp.prettier-vscode-2.3.0/out/extension
+[2019-10-29 15:14:59.895] [exthost] [info] ExtensionService#_doActivateExtension fabiospampinato.vscode-todo-plus {"startup":true,"extensionId":{"value":"fabiospampinato.vscode-todo-plus","_lower":"fabiospampinato.vscode-todo-plus"},"activationEvent":"*"}
+[2019-10-29 15:14:59.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/fabiospampinato.vscode-todo-plus-4.14.1/out/extension.js
+[2019-10-29 15:15:00.046] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion {"startup":true,"extensionId":{"value":"gencer.html-slim-scss-css-class-completion","_lower":"gencer.html-slim-scss-css-class-completion"},"activationEvent":"*"}
+[2019-10-29 15:15:00.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.5.21/dist/extension
+[2019-10-29 15:15:00.294] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2019-10-29 15:15:00.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2019-10-29 15:15:00.304] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare-audio","_lower":"ms-vsliveshare.vsliveshare-audio"},"activationEvent":"*"}
+[2019-10-29 15:15:00.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1056/out/prod/extension-prod
+[2019-10-29 15:15:00.942] [exthost] [info] ExtensionService#_doActivateExtension metaseed.metago {"startup":true,"extensionId":{"value":"metaseed.metago","_lower":"metaseed.metago"},"activationEvent":"*"}
+[2019-10-29 15:15:00.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/metaseed.metago-2.11.0/out/src/extension
+[2019-10-29 15:15:00.964] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2019-10-29 15:15:00.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/mhutchie.git-graph-1.17.0/out/extension.js
+[2019-10-29 15:15:01.003] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"extensionId":{"value":"nrwl.angular-console","_lower":"nrwl.angular-console"},"activationEvent":"*"}
+[2019-10-29 15:15:01.003] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/nrwl.angular-console-8.1.2/main.js
+[2019-10-29 15:15:02.429] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2019-10-29 15:15:02.429] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2019-10-29 15:15:02.431] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2019-10-29 15:15:02.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/pkief.material-icon-theme-3.9.1/dist/extension
+[2019-10-29 15:15:02.451] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2019-10-29 15:15:02.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-10-29 15:15:02.489] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-10-29 15:15:02.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-10-29 15:15:02.817] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"extensionId":{"value":"Shan.code-settings-sync","_lower":"shan.code-settings-sync"},"activationEvent":"*"}
+[2019-10-29 15:15:02.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/shan.code-settings-sync-3.4.3/out/extension.js
+[2019-10-29 15:15:03.012] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"extensionId":{"value":"shardulm94.trailing-spaces","_lower":"shardulm94.trailing-spaces"},"activationEvent":"*"}
+[2019-10-29 15:15:03.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-10-29 15:15:03.032] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip {"startup":true,"extensionId":{"value":"slevesque.vscode-multiclip","_lower":"slevesque.vscode-multiclip"},"activationEvent":"*"}
+[2019-10-29 15:15:03.032] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/slevesque.vscode-multiclip-0.1.5/out/src/extension
+[2019-10-29 15:15:03.034] [exthost] [info] ExtensionService#_doActivateExtension TzachOvadia.todo-list {"startup":true,"extensionId":{"value":"TzachOvadia.todo-list","_lower":"tzachovadia.todo-list"},"activationEvent":"*"}
+[2019-10-29 15:15:03.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/tzachovadia.todo-list-1.5.1/out/src/extension
+[2019-10-29 15:15:03.122] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.errorlens {"startup":true,"extensionId":{"value":"usernamehw.errorlens","_lower":"usernamehw.errorlens"},"activationEvent":"*"}
+[2019-10-29 15:15:03.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/usernamehw.errorlens-2.7.2/dist/extension
+[2019-10-29 15:15:03.128] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"extensionId":{"value":"vincaslt.highlight-matching-tag","_lower":"vincaslt.highlight-matching-tag"},"activationEvent":"*"}
+[2019-10-29 15:15:03.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/vincaslt.highlight-matching-tag-0.9.5/out/src/extension
+[2019-10-29 15:15:03.146] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2019-10-29 15:15:03.146] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/vscode-icons-team.vscode-icons-9.5.0/dist/src/vscode-icons.bundle.js
+[2019-10-29 15:15:03.271] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2019-10-29 15:15:03.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2019-10-29 15:15:03.365] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2019-10-29 15:15:03.365] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wallabyjs.quokka-vscode-1.0.259/index
+[2019-10-29 15:15:03.367] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2019-10-29 15:15:03.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-10-29 15:15:03.370] [exthost] [info] ExtensionService#_doActivateExtension Wscats.eno {"startup":true,"extensionId":{"value":"Wscats.eno","_lower":"wscats.eno"},"activationEvent":"*"}
+[2019-10-29 15:15:03.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/wscats.eno-2.0.9/extension
+[2019-10-29 15:15:04.284] [exthost] [info] ExtensionService#_doActivateExtension yatki.vscode-surround {"startup":true,"extensionId":{"value":"yatki.vscode-surround","_lower":"yatki.vscode-surround"},"activationEvent":"*"}
+[2019-10-29 15:15:04.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/domoraud/.vscode/extensions/yatki.vscode-surround-1.0.2/out/surround
+[2019-10-29 15:15:05.333] [exthost] [info] eager extensions activated

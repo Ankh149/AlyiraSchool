@@ -1,0 +1,30 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/domoraud/AlyraSchool
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%an <%ae> [%ai] d3965cb21bf4535b6ee00458bc7ab5f2a834ba6d
+> git show -s --format=%H
+%ae
+%P
+%B d3965cb21bf4535b6ee00458bc7ab5f2a834ba6d
+> git add -A -- .
