@@ -13,3 +13,4 @@ To use JavaScript Standard Style please install JavaScript Standard Style by run
 or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
 
 Alternatively you can disable JavaScript Standard Style for the workspace folder AlyraSchool by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 17:07:06] JavaScript Standard Style server stopped.

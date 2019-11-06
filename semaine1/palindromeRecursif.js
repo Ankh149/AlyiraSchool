@@ -21,4 +21,8 @@ function estPalindrome(chaine) {
 estPalindrome("A")
 estPalindrome("BOB") 
 estPalindrome("ANNA") 
+<<<<<<< HEAD
 estPalindrome("ESOPE RESTE ICI ET SE REPOSE")
+=======
+estPalindrome("ESOPE RESTE ICI ET SE REPOSE")
+>>>>>>> eba0cb738fe828e9ac6d9e282768e84e5739cff0

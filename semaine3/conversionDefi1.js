@@ -30,7 +30,7 @@ Decimale to Hex
 
 On divise le decimal par 16.
 On recupere le quotient.
-On check si il faut convertir (si au dessus de 9 on converti en Lettre)
+On check si il faut convertir (si au dessus de 9 on convertit en Lettre)
 Et on Boucle avec le reste
 
 */
