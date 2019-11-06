@@ -1,0 +1,16 @@
+[Info  - 15:20:07] JavaScript Standard Style server is running.
+[Info  - 15:20:08] 
+Failed to load the JavaScript Standard Style library for the document /home/domoraud/AlyraSchool/semaine1/arbreBinaire.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder AlyraSchool
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder AlyraSchool by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 15:21:11] 
+Failed to load the JavaScript Standard Style library for the document /home/domoraud/AlyraSchool/semaine1/exo1.3.5.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder AlyraSchool
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder AlyraSchool by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 15:26:46] JavaScript Standard Style server stopped.

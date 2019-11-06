@@ -18,7 +18,7 @@ function adresseBitcoin(clePublique) {
     //0x00 + hash160 +clé
     //Convertir le nomùbre en base 58
 
-    let adressebs58.encode = (Buffer.from(adresse))
+     let adresseb58 = (Buffer.from(adresse))
 
     return 1+adresseb58
 }

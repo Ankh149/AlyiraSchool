@@ -1,2 +1,10 @@
 [2019-10-29 15:13:50.650] [sharedprocess] [info] main {"machineId":"57065788b2db165b08f72a454eea520bf5aa5fbec270e5811623d28468c8d3e6","windowId":2}
 [2019-10-29 15:14:30.578] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-10-29 15:19:36.207] [sharedprocess] [info] Installing extension: pmneo.tsimporter
+[2019-10-29 15:19:37.073] [sharedprocess] [info] Downloaded extension: pmneo.tsimporter /tmp/c0931a04-4c40-431d-bb19-5ab218f52e6d
+[2019-10-29 15:19:37.210] [sharedprocess] [info] Extracted extension to /home/domoraud/.vscode/extensions/.pmneo.tsimporter-2.0.1: pmneo.tsimporter
+[2019-10-29 15:19:37.211] [sharedprocess] [info] Renamed to /home/domoraud/.vscode/extensions/pmneo.tsimporter-2.0.1
+[2019-10-29 15:19:37.212] [sharedprocess] [info] Installation completed. pmneo.tsimporter
+[2019-10-29 15:19:37.253] [sharedprocess] [info] Extensions installed successfully: pmneo.tsimporter
+[2019-10-29 15:25:45.840] [sharedprocess] [info] Uninstalling extension: wakatime.vscode-wakatime
+[2019-10-29 15:25:46.013] [sharedprocess] [info] Successfully uninstalled extension: wakatime.vscode-wakatime
